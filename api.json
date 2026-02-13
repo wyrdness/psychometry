@@ -1,10 +1,8 @@
 {
-  "category": "PSYCHIC_PHENOMENA",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/psychometry",
     "maintainers": [
       {
@@ -18,735 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "psychometry",
     "name": "Psychometry",
-    "aliases": [
-      {
-        "name": "Psychoscopy",
-        "language": "English",
-        "region": "Global",
-        "meaning": "Alternative academic term"
-      },
-      {
-        "name": "Token-Object Reading",
-        "language": "English",
-        "region": "Global",
-        "meaning": "Descriptive term for the practice"
-      },
-      {
-        "name": "Object Reading",
-        "language": "English",
-        "region": "Global",
-        "meaning": "Simplified common term"
-      },
-      {
-        "name": "Psychometric Reading",
-        "language": "English",
-        "region": "Global",
-        "meaning": "Practice-focused term"
-      },
-      {
-        "name": "Clairtangency",
-        "language": "French origin",
-        "region": "Global",
-        "meaning": "Clear touching - esoteric terminology"
-      }
-    ],
-    "category": "PSYCHIC_PHENOMENA",
-    "subcategory": "Extrasensory Perception",
+    "aliases": [],
+    "category": "|_BROADER_CATEGORY_OF_CLAIMED_PARANORMAL_MENTAL_ABILITIES_|",
+    "subcategory": "Retrocognitive / Clairvoyant",
     "tags": [
-      "psychic-ability",
-      "extrasensory-perception",
-      "clairvoyance",
-      "retrocognition",
-      "object-reading",
-      "touch-based",
-      "paranormal-investigation",
-      "pseudoscience",
-      "global"
+      "folklore",
+      "mythology"
     ],
-    "status": "unverified",
+    "status": "documented",
     "description": {
-      "summary": "Claimed psychic ability to read information from objects through physical touch or proximity, allegedly sensing history, emotions, or events associated with the object. Despite widespread claims, no scientific evidence supports its existence.",
-      "full": "Psychometry is a claimed paranormal ability in which a person can sense or 'read' information about the history, owner, or events associated with an object through physical contact or proximity. First named by Joseph R. Buchanan in 1842, the practice suggests that objects retain psychic impressions from their past. Practitioners claim they can discern emotions, memories, historical events, and details about previous owners by touching personal items such as jewelry, clothing, or other artifacts. The ability is often featured in paranormal investigations, psychic readings, and fictional narratives. However, psychometry has failed controlled scientific testing repeatedly, with no empirical evidence supporting its existence. Psychologists attribute apparent successes to cognitive biases including cold reading, confirmation bias, the Barnum effect, and subjective validation. The phenomenon remains popular in New Age circles and paranormal entertainment despite scientific consensus that it represents a combination of psychological effects rather than a genuine psychic ability."
+      "summary": "First named by American physiologist **Joseph R.",
+      "full": "First named by American physiologist **Joseph R. Buchanan** in 1842, psychometry suggests that objects retain psychic impressions or \\\"vibrations\\\" from their past. Practitioners claim they can discern: Despite being featured prominently in spiritualism, paranormal investigation, psychic readings, and popular media, psychometry has **failed every controlled scientific test** and lacks any plausible mechanism within known physics or biology."
     },
     "etymology": {
-      "origin": "Coined by American physiologist Joseph Rodes Buchanan in 1842 from Greek 'psyche' (soul, mind) and 'metron' (measure), literally meaning 'soul-measuring' or 'measuring the soul'.",
-      "meaning": "The measurement or perception of psychic impressions from objects",
-      "first_use": "1842"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
-      "category": "PSYCHIC_PHENOMENA",
-      "type": "Extrasensory Perception",
-      "subtype": "Retrocognitive/Clairvoyant",
-      "variant": "Touch-based perception"
+      "category": "|_BROADER_CATEGORY_OF_CLAIMED_PARANORMAL_MENTAL_ABILITIES_|",
+      "type": "Retrocognitive / Clairvoyant",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "psychic-phenomena",
-        "name": "Psychic Phenomena",
-        "relationship": "parent_category",
-        "description": "Broader category of claimed paranormal mental abilities"
-      },
-      {
-        "id": "clairvoyance",
-        "name": "Clairvoyance",
-        "relationship": "related",
-        "description": "General extrasensory perception; psychometry is sometimes considered a form of clairvoyance"
-      },
-      {
-        "id": "remote-viewing",
-        "name": "Remote Viewing",
-        "relationship": "similar",
-        "description": "Claimed ability to perceive distant locations; shares ESP characteristics"
-      },
-      {
-        "id": "mediumship",
-        "name": "Mediumship",
-        "relationship": "related",
-        "description": "Psychometry often used in mediumship to contact spirits"
-      },
-      {
-        "id": "near-death-experiences",
-        "name": "Near-Death Experiences",
-        "relationship": "related",
-        "description": "Some NDEs include claimed retrocognitive experiences"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
-    "claimed_abilities": [
-      {
-        "ability": "Historical Event Reading",
-        "description": "Sensing past events that occurred in proximity to the object",
-        "frequency": "most_common",
-        "evidence_level": "anecdotal_only"
-      },
-      {
-        "ability": "Owner Identification",
-        "description": "Perceiving characteristics, emotions, or identity of previous owners",
-        "frequency": "common",
-        "evidence_level": "anecdotal_only"
-      },
-      {
-        "ability": "Emotional Impression Reading",
-        "description": "Sensing emotions that were strongly felt near the object",
-        "frequency": "common",
-        "evidence_level": "anecdotal_only"
-      },
-      {
-        "ability": "Location Determination",
-        "description": "Identifying where an object has been or originated",
-        "frequency": "occasional",
-        "evidence_level": "anecdotal_only"
-      },
-      {
-        "ability": "Future Prediction via Objects",
-        "description": "Some practitioners claim precognitive insights from objects",
-        "frequency": "rare",
-        "evidence_level": "anecdotal_only"
-      }
-    ],
-    "claimed_mechanism": {
-      "theories": [
-        "Objects retain 'psychic impressions' or 'vibrations' from their history",
-        "Energy fields or auras surround objects and encode information",
-        "Quantum consciousness allows non-local access to object history",
-        "Spiritual or astral records accessible through object contact",
-        "Electromagnetic imprinting on molecular structure"
-      ],
-      "scientific_status": "No empirical support; violates known physical principles"
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "typical_process": {
-      "steps": [
-        "Practitioner holds or touches the object",
-        "Period of concentration or meditation",
-        "Impressions, images, or feelings arise",
-        "Information is interpreted and communicated",
-        "Details are compared to known history (if available)"
-      ],
-      "conditions": "Often performed in quiet, focused environment; may involve altered states"
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Claims of psychometric ability are global, with no geographic concentration. Practice found in Western spiritualism, parapsychology, paranormal investigation, and various cultural traditions worldwide.",
-      "continents": ["All"],
-      "countries": ["Global"],
-      "regions": ["Universal"]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
-    "cultural_contexts": [
-      {
-        "context": "Spiritualism Movement",
-        "region": "United States, Europe",
-        "period": "1840s-present",
-        "description": "Psychometry became popular among spiritualist mediums in 19th century"
-      },
-      {
-        "context": "New Age Movement",
-        "region": "Global",
-        "period": "1970s-present",
-        "description": "Adopted as healing and divination practice"
-      },
-      {
-        "context": "Paranormal Investigation",
-        "region": "Global",
-        "period": "1990s-present",
-        "description": "Used to investigate haunted locations and crime scenes"
-      },
-      {
-        "context": "Psychic Entertainment",
-        "region": "Global",
-        "period": "1900s-present",
-        "description": "Featured in psychic readings, television shows, and public demonstrations"
-      }
-    ],
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "1842",
-        "circa": false,
-        "source": "Joseph R. Buchanan's coinage and research"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "1840s-1920s",
-          "description": "Spiritualism movement; psychometry widely practiced by mediums"
-        },
-        {
-          "period": "1970s-1990s",
-          "description": "New Age popularity; integration into paranormal investigation"
-        },
-        {
-          "period": "2000s-present",
-          "description": "Television and internet exposure; continued entertainment use despite debunking"
-        }
-      ]
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "While specific term coined in 1842, practices of divining information from objects appear in various ancient traditions including oracle practices, shamanic object reading, and folk magic rituals across cultures.",
-      "earliest_accounts": "Formal concept introduced by Joseph R. Buchanan (1842). Earlier object-based divination exists in anthropological records.",
-      "folklore_connections": "Connected to divination practices, magic objects in folklore, and traditions of blessed/cursed items holding power or memory."
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "1842",
-        "event": "Joseph R. Buchanan coins 'psychometry'",
-        "significance": "American physician describes ability to sense properties of objects through touch",
-        "source": "Buchanan's Journal of Man"
-      },
-      {
-        "date": "1849",
-        "event": "Buchanan publishes research",
-        "significance": "Claims experimental validation of psychometric abilities",
-        "source": "Buchanan, J.R. (1849) experiments"
-      },
-      {
-        "date": "1863",
-        "event": "William Denton expands theory",
-        "significance": "Geologist claims psychometry can read geological history from rocks",
-        "source": "Denton, W. (1863). The Soul of Things"
-      },
-      {
-        "date": "1880s-1920s",
-        "event": "Spiritualism movement adoption",
-        "significance": "Mediums incorporate psychometry into séances and readings",
-        "source": "Spiritualist literature and records"
-      },
-      {
-        "date": "1919",
-        "event": "Scientific American investigation",
-        "significance": "Psychometry fails controlled testing by scientific committee",
-        "source": "Scientific American records"
-      },
-      {
-        "date": "1933-1934",
-        "event": "J.B. Rhine ESP research",
-        "significance": "Duke University parapsychology lab tests psychometry; no positive results",
-        "source": "Rhine Research Center archives"
-      },
-      {
-        "date": "1974",
-        "event": "Project Alpha begins",
-        "significance": "James Randi demonstrates how easily psychometry can be faked",
-        "source": "Randi, J. investigations"
-      },
-      {
-        "date": "1980s-1990s",
-        "event": "Television exposure",
-        "significance": "Psychometry featured in paranormal TV shows and documentaries",
-        "source": "Media archives"
-      },
-      {
-        "date": "2000s-present",
-        "event": "Internet era",
-        "significance": "Online psychic readings, continued testing failures, skeptical debunking",
-        "source": "Various contemporary sources"
-      }
-    ],
-    "modern_era": "Psychometry remains popular in paranormal entertainment, New Age spirituality, and psychic reading services despite complete lack of scientific validation. Skeptical organizations continue to offer prizes for demonstrated psychometric abilities under controlled conditions, with no successful claimants. The practice persists primarily in contexts where entertainment value or belief outweighs scientific scrutiny."
+    "timeline": []
   },
-
-  "experiments": {
-    "controlled_tests": [
-      {
-        "study": "Rhine Laboratory Tests",
-        "researcher": "J.B. Rhine and associates",
-        "institution": "Duke University Parapsychology Laboratory",
-        "period": "1930s-1960s",
-        "methodology": "Blind testing with target objects",
-        "results": "No evidence for psychometric ability; results at chance level",
-        "status": "negative",
-        "publication": "Journal of Parapsychology, various issues"
-      },
-      {
-        "study": "Controlled Object Reading Experiments",
-        "researcher": "Various parapsychologists",
-        "institution": "Multiple institutions",
-        "period": "1950s-1980s",
-        "methodology": "Double-blind protocols with sealed objects",
-        "results": "Consistent failure when sensory cues eliminated",
-        "status": "negative",
-        "publication": "Parapsychology journals"
-      },
-      {
-        "study": "Richard Wiseman Tests",
-        "researcher": "Richard Wiseman",
-        "institution": "University of Hertfordshire",
-        "period": "1990s-2000s",
-        "methodology": "Controlled demonstrations with claimed psychometrists",
-        "results": "Performance at chance level; cold reading techniques identified",
-        "status": "negative",
-        "publication": "Skeptical literature"
-      },
-      {
-        "study": "CSICOP Investigations",
-        "researcher": "Committee for Skeptical Inquiry",
-        "institution": "CSI (formerly CSICOP)",
-        "period": "1976-present",
-        "methodology": "Challenge testing of claimants",
-        "results": "No successful demonstrations under controlled conditions",
-        "status": "negative",
-        "publication": "Skeptical Inquirer magazine"
-      }
-    ],
-    "famous_cases": [
-      {
-        "name": "Stefan Ossowiecki",
-        "period": "1920s-1944",
-        "description": "Polish psychic claimed psychometric abilities; performed demonstrations for researchers",
-        "testing": "Some researchers impressed; no controlled replication",
-        "status": "disputed",
-        "notes": "Retrospective analysis suggests cold reading and sensory cues"
-      },
-      {
-        "name": "Peter Hurkos",
-        "period": "1950s-1980s",
-        "description": "Dutch psychic claimed to solve crimes using psychometry",
-        "testing": "Police cases largely unsuccessful; no verified successes under scrutiny",
-        "status": "debunked",
-        "notes": "Analysis showed use of public information and lucky guesses"
-      },
-      {
-        "name": "Greta Alexander",
-        "period": "1970s-1998",
-        "description": "Claimed psychometric crime-solving abilities",
-        "testing": "Promoted successes unverifiable; controlled tests failed",
-        "status": "disputed",
-        "notes": "Confirmation bias and retrofitting evident in claims"
-      },
-      {
-        "name": "James Van Praagh",
-        "period": "1990s-present",
-        "description": "Celebrity medium uses psychometry in demonstrations",
-        "testing": "Performances consistent with cold reading techniques",
-        "status": "skeptical consensus",
-        "notes": "Never performed successfully under controlled conditions"
-      }
-    ],
-    "challenge_offers": [
-      {
-        "organization": "James Randi Educational Foundation",
-        "prize": "$1,000,000",
-        "period": "1996-2015",
-        "applicants": "Multiple psychometry claimants",
-        "successful_claimants": 0,
-        "notes": "Challenge discontinued 2015; no successful demonstrations"
-      },
-      {
-        "organization": "Independent Investigations Group",
-        "prize": "$100,000",
-        "period": "2000-present",
-        "applicants": "Various psychometry claims",
-        "successful_claimants": 0,
-        "notes": "Continues to offer testing; no successes to date"
-      }
-    ]
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
   },
-
   "evidence": {
-    "scientific_evidence": {
-      "experimental": "None. All controlled experiments show chance-level performance",
-      "replication": "No positive results have been replicated under proper controls",
-      "peer_review": "No peer-reviewed scientific journals support psychometry's existence",
-      "meta_analyses": "Meta-analyses of ESP research exclude or find null results for psychometry",
-      "status": "No scientific evidence supports psychometry"
-    },
-    "anecdotal_evidence": {
-      "type": "Widespread anecdotal claims",
-      "reliability": "Low - subject to cognitive biases",
-      "issues": [
-        "Confirmation bias (remembering hits, forgetting misses)",
-        "Subjective validation (vague statements fit many situations)",
-        "Post-hoc rationalization",
-        "Lack of falsifiability in claims",
-        "No controlled documentation"
-      ],
-      "status": "Unreliable for establishing phenomenon"
-    },
-    "explanatory_mechanisms": [
-      {
-        "mechanism": "Cold Reading",
-        "description": "Techniques to elicit information and make general statements that seem specific",
-        "evidence": "Demonstrates how psychometry effects can be simulated",
-        "source": "Psychological research on mentalism"
-      },
-      {
-        "mechanism": "Barnum Effect",
-        "description": "People accept vague, general statements as personally meaningful",
-        "evidence": "Well-documented psychological phenomenon",
-        "source": "Forer, B.R. (1949) and subsequent research"
-      },
-      {
-        "mechanism": "Confirmation Bias",
-        "description": "Selective attention to hits while ignoring misses",
-        "evidence": "Universal cognitive bias documented extensively",
-        "source": "Cognitive psychology literature"
-      },
-      {
-        "mechanism": "Sensory Leakage",
-        "description": "Subtle cues from object appearance, wear, or observer reactions",
-        "evidence": "Demonstrations show information can be gained normally",
-        "source": "Skeptical investigations"
-      },
-      {
-        "mechanism": "Subjective Validation",
-        "description": "Finding personal meaning in random or vague information",
-        "evidence": "Replicable psychological effect",
-        "source": "Psychology of belief research"
-      }
-    ]
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-
   "theories": {
-    "proponent_theories": [
-      {
-        "name": "Psychic Impression Theory",
-        "description": "Objects retain energetic or psychic impressions from their history and users",
-        "proponents": ["Joseph Buchanan", "William Denton", "New Age practitioners"],
-        "evidence_cited": ["Anecdotal reports", "Claimed successes"],
-        "scientific_status": "No mechanism; violates physics"
-      },
-      {
-        "name": "Quantum Consciousness",
-        "description": "Consciousness can access information via quantum entanglement or fields",
-        "proponents": ["Some fringe physicists", "New Age authors"],
-        "evidence_cited": ["Misapplication of quantum mechanics"],
-        "scientific_status": "Rejected by mainstream physics"
-      },
-      {
-        "name": "Morphic Fields",
-        "description": "Rupert Sheldrake's morphic resonance allows memory transfer through fields",
-        "proponents": ["Rupert Sheldrake", "Alternative medicine practitioners"],
-        "evidence_cited": ["Controversial experiments"],
-        "scientific_status": "Not accepted by mainstream science"
-      },
-      {
-        "name": "Akashic Records",
-        "description": "Universal library of all events accessible through psychic means",
-        "proponents": ["Theosophists", "Esoteric practitioners"],
-        "evidence_cited": ["Spiritual experiences"],
-        "scientific_status": "Religious/mystical belief; no scientific basis"
-      }
-    ],
-    "skeptical_explanations": [
-      {
-        "name": "Cold Reading and Mentalism",
-        "description": "Practitioners use psychological techniques to appear psychic",
-        "proponents": ["James Randi", "Ray Hyman", "Richard Wiseman", "Derren Brown"],
-        "evidence_cited": [
-          "Professional mentalists can duplicate all claimed effects",
-          "Techniques documented in magic literature",
-          "Controlled tests eliminate apparent abilities"
-        ],
-        "scientific_status": "Accepted explanation; well-documented"
-      },
-      {
-        "name": "Cognitive Biases",
-        "description": "Combination of confirmation bias, subjective validation, and selective memory",
-        "proponents": ["Michael Shermer", "Susan Blackmore", "James Alcock"],
-        "evidence_cited": [
-          "Psychological research on belief formation",
-          "Replicable bias effects in laboratory",
-          "Explains all apparent psychometry successes"
-        ],
-        "scientific_status": "Mainstream psychology consensus"
-      },
-      {
-        "name": "Sensory Cues and Context",
-        "description": "Visual and tactile information from objects provides normal basis for statements",
-        "proponents": ["Skeptical investigators"],
-        "evidence_cited": [
-          "Objects reveal age, use patterns, origin through normal observation",
-          "Wear patterns, materials, style provide cultural/temporal context",
-          "Demonstrations of how much can be deduced normally"
-        ],
-        "scientific_status": "Obvious alternative explanation"
-      },
-      {
-        "name": "Probability and Chance",
-        "description": "Random guesses occasionally correct by chance; successes remembered, failures forgotten",
-        "proponents": ["Statisticians", "Skeptical researchers"],
-        "evidence_cited": [
-          "Statistical analysis of claims shows chance-level accuracy",
-          "Texas sharpshooter fallacy in claim evaluation",
-          "No better than random in controlled tests"
-        ],
-        "scientific_status": "Statistical reality"
-      }
-    ],
-    "scientific_consensus": "Psychometry lacks any empirical support and is universally rejected by mainstream science. All apparent effects are attributable to well-understood psychological phenomena including cold reading, cognitive biases, and sensory cues. No plausible mechanism exists within known physics or biology. The practice persists due to cognitive biases, entertainment value, and deliberate deception."
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Divination through sacred objects across cultures",
-        "Blessed or cursed items in folklore",
-        "Talismans and amulets believed to retain power",
-        "Relics in religious traditions",
-        "Shamanic object reading in indigenous practices"
-      ],
-      "beliefs": "Many cultures believe objects can absorb or retain spiritual energy, though not necessarily in the specific psychometric sense. These beliefs typically connect to broader spiritual or magical worldviews."
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "\"The Soul of Things\" by William Denton (1863) - early psychometry advocacy",
-        "\"The Dead Zone\" by Stephen King (1979) - psychometry in fiction",
-        "Various paranormal romance and mystery novels featuring psychometry"
-      ],
-      "film_tv": [
-        "\"The Dead Zone\" (1983, 2002-2007) - psychometry as plot device",
-        "\"Medium\" (TV series, 2005-2011) - psychic detective uses object reading",
-        "\"Ghost Whisperer\" (TV series, 2005-2010) - features psychometric abilities",
-        "\"Psych\" (TV series) - parodies psychic detective tropes including psychometry",
-        "Various paranormal investigation shows feature psychometry attempts"
-      ],
-      "games": [
-        "Role-playing games often include psychometry as character ability",
-        "\"Psychonauts\" video game series explores psychic themes"
-      ],
-      "other": [
-        "Psychic reading services market psychometry",
-        "Paranormal investigation equipment allegedly helps detect \"object energy\"",
-        "New Age workshops teach psychometry techniques",
-        "Skeptical demonstrations expose techniques"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
   "research": {
-    "historical_researchers": [
-      {
-        "name": "Joseph Rodes Buchanan",
-        "affiliation": "Eclectic Medical Institute, Cincinnati",
-        "contribution": "Coined term 'psychometry'; early experimental claims (not replicated)",
-        "period": "1842-1899",
-        "stance": "Proponent"
-      },
-      {
-        "name": "William Denton",
-        "affiliation": "Geologist and spiritualist",
-        "contribution": "Expanded psychometry to geological specimens; wrote 'The Soul of Things'",
-        "period": "1860s-1883",
-        "stance": "Proponent"
-      },
-      {
-        "name": "J.B. Rhine",
-        "affiliation": "Duke University Parapsychology Laboratory",
-        "contribution": "Tested psychometry claims; found no evidence",
-        "period": "1930s-1960s",
-        "stance": "Skeptical after testing"
-      },
-      {
-        "name": "Harry Houdini",
-        "affiliation": "Magician and skeptical investigator",
-        "contribution": "Exposed fraudulent mediums using psychometry techniques",
-        "period": "1920s",
-        "stance": "Skeptical"
-      },
-      {
-        "name": "James Randi",
-        "affiliation": "James Randi Educational Foundation",
-        "contribution": "Offered $1M prize for psychometry demonstration; tested numerous claims",
-        "period": "1960s-2015",
-        "stance": "Skeptical"
-      }
-    ],
-    "skeptical_researchers": [
-      {
-        "name": "Richard Wiseman",
-        "affiliation": "University of Hertfordshire",
-        "contribution": "Experimental testing and debunking of psychic claims including psychometry",
-        "period": "1990s-present"
-      },
-      {
-        "name": "Ray Hyman",
-        "affiliation": "University of Oregon",
-        "contribution": "Analysis of cold reading and mentalism techniques that simulate psychometry",
-        "period": "1970s-present"
-      },
-      {
-        "name": "Susan Blackmore",
-        "affiliation": "Independent researcher, former parapsychologist",
-        "contribution": "Research on why people believe in psychic phenomena despite lack of evidence",
-        "period": "1980s-present"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Committee for Skeptical Inquiry (CSI)",
-        "url": "https://skepticalinquirer.org",
-        "focus": "Scientific investigation of paranormal claims",
-        "stance": "Skeptical - no evidence for psychometry"
-      },
-      {
-        "name": "James Randi Educational Foundation (archived)",
-        "url": "https://web.randi.org",
-        "focus": "Testing paranormal claims; offered $1M prize",
-        "stance": "Skeptical - no successful claimants"
-      },
-      {
-        "name": "Parapsychological Association",
-        "url": "https://www.parapsych.org",
-        "focus": "Scientific study of psi phenomena",
-        "stance": "Mixed - little research on psychometry due to lack of results"
-      }
-    ],
-    "current_status": "Psychometry receives minimal serious scientific attention due to consistent failure in controlled tests. Mainstream psychology recognizes the cognitive biases that produce belief in psychometry. The practice continues primarily in entertainment, New Age spirituality, and paranormal investigation contexts where scientific rigor is not applied."
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "cognitive_psychology": {
-    "explanatory_phenomena": [
-      {
-        "phenomenon": "Cold Reading",
-        "description": "Set of techniques to make accurate-seeming statements about someone without prior knowledge",
-        "relevance": "Explains how psychometrists provide convincing readings",
-        "key_research": "Hyman, R. (1977). Cold Reading: How to Convince Strangers that You Know All About Them"
-      },
-      {
-        "phenomenon": "Barnum Effect (Forer Effect)",
-        "description": "Tendency to accept vague, general personality descriptions as uniquely applicable to oneself",
-        "relevance": "Why clients accept psychometric readings as accurate",
-        "key_research": "Forer, B.R. (1949). The fallacy of personal validation"
-      },
-      {
-        "phenomenon": "Confirmation Bias",
-        "description": "Tendency to search for, interpret, and recall information that confirms pre-existing beliefs",
-        "relevance": "Believers remember hits and forget misses",
-        "key_research": "Nickerson, R.S. (1998). Confirmation bias: A ubiquitous phenomenon"
-      },
-      {
-        "phenomenon": "Subjective Validation",
-        "description": "Finding personal significance in random or vague statements",
-        "relevance": "Why psychometry readings feel personally meaningful",
-        "key_research": "Marks, D., & Kammann, R. (1980). The Psychology of the Psychic"
-      },
-      {
-        "phenomenon": "Apophenia",
-        "description": "Tendency to perceive meaningful connections between unrelated things",
-        "relevance": "Creating narratives from random impressions",
-        "key_research": "Shermer, M. (2008). Patternicity: Finding Meaningful Patterns in Meaningless Noise"
-      },
-      {
-        "phenomenon": "Memory Reconstruction",
-        "description": "Memories are reconstructed rather than replayed; details can be altered or added",
-        "relevance": "Retrospective validation of psychometric claims",
-        "key_research": "Loftus, E.F. (1979). Eyewitness testimony"
-      }
-    ]
-  },
-
-  "sources": [
-    {
-      "id": "buchanan-1842",
-      "type": "book",
-      "title": "Journal of Man",
-      "authors": ["Joseph Rodes Buchanan"],
-      "publication": "Self-published",
-      "date": "1842",
-      "notes": "Original coinage of term 'psychometry'"
-    },
-    {
-      "id": "denton-1863",
-      "type": "book",
-      "title": "The Soul of Things; or, Psychometric Researches and Discoveries",
-      "authors": ["William Denton"],
-      "publication": "Walker, Wise, and Company",
-      "date": "1863",
-      "notes": "Early advocacy of psychometry"
-    },
-    {
-      "id": "forer-1949",
-      "type": "paper",
-      "title": "The fallacy of personal validation: A classroom demonstration of gullibility",
-      "authors": ["Bertram R. Forer"],
-      "publication": "Journal of Abnormal and Social Psychology",
-      "date": "1949",
-      "volume": "44",
-      "pages": "118-123",
-      "notes": "Foundational research on Barnum effect"
-    },
-    {
-      "id": "hyman-1977",
-      "type": "article",
-      "title": "Cold Reading: How to Convince Strangers that You Know All About Them",
-      "authors": ["Ray Hyman"],
-      "publication": "The Zetetic (Skeptical Inquirer)",
-      "date": "1977",
-      "volume": "1",
-      "pages": "18-37",
-      "notes": "Analysis of cold reading techniques"
-    },
-    {
-      "id": "randi-1982",
-      "type": "book",
-      "title": "Flim-Flam! Psychics, ESP, Unicorns, and Other Delusions",
-      "authors": ["James Randi"],
-      "publication": "Prometheus Books",
-      "date": "1982",
-      "isbn": "978-0879751982",
-      "notes": "Skeptical analysis of psychometry and related claims"
-    },
-    {
-      "id": "wiseman-1995",
-      "type": "paper",
-      "title": "The megalab truth test",
-      "authors": ["Richard Wiseman"],
-      "publication": "Nature",
-      "date": "1995",
-      "volume": "373",
-      "pages": "391",
-      "notes": "Large-scale test of psychic claims"
-    }
-  ]
+  "sources": []
 }
